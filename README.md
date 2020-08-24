@@ -6,3 +6,4 @@
 <a href="https://github.com/SunnyZaman/SunnyZaman">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SunnyZaman" alt="Sunny's github stats" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyZaman)](https://github.com/anuraghazra/github-readme-stats)
