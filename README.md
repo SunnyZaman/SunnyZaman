@@ -3,4 +3,6 @@
  <h2 align="center">Sunny Zaman</h2>
  <p align="center">Web Developer</p>
 </p>
-[![Sunny's github stats](https://github-readme-stats.vercel.app/api?username=SunnyZaman)](https://github.com/SunnyZaman)
+<a href="https://github.com/SunnyZaman/SunnyZaman">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SunnyZaman" alt="Sunny's github stats" />
+</a>
