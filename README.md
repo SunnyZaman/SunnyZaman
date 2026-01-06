@@ -64,10 +64,6 @@
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunnyZaman&theme=default" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SUNNYZAMAN&hide_border=true" />
-</p>
-
 ---
 
 
