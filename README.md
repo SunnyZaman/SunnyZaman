@@ -49,10 +49,13 @@
 
 ---
 
-## 🧠 AI interests
-- Retrieval + semantic search (RAG), ranking, and evals
-- Tool-using agents and workflow automation
-- Practical AI UX: guardrails, latency, and cost-aware design
+## 💡 Interests
+- 🤖 **AI** — practical LLM apps, automation, and tools that feel like real products  
+- 🌐 **Web apps** — clean UI, fast APIs, great UX, scalable architecture  
+- 🎮 **Games** — gameplay systems, competitive titles, and building fun side projects  
+- 🏀 **Sports** — training, performance, and staying consistent  
+- 📈 **Stocks** — markets, long-term investing, and learning what moves price  
+- 🏢 **Businesses** — product thinking, growth, and building things people actually want  
 
 ---
 
